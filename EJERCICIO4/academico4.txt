@@ -1,0 +1,4 @@
+id,nombre,paterno,depto,nota1,nota2,nota3,nfinal
+10,Juan,Pérez,D1,100,90,78,84
+11,María,Gómez,D2,92,100,95,95
+
